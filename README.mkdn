@@ -1,5 +1,6 @@
 Device Tree for BQ Aquaris X5 Plus (gohan)
 ===========================================
+Version 1.0.0
 
 The BQ Aquaris X5 Plus (codenamed _"gohan"_) is a mid-range smartphone from BQ.
 It was released in June 2016.
