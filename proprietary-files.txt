@@ -309,6 +309,9 @@ vendor/lib/lib-sec-disp.so
 vendor/lib/libdrmfs.so
 vendor/lib/libdrmtime.so
 vendor/lib/libQSEEComAPI.so
+vendor/lib/libGPreqcancel.so
+vendor/lib/libGPreqcancel_svc.so
+vendor/lib/libqisl.so
 vendor/lib/librpmb.so
 vendor/lib/libsecureui.so
 vendor/lib/libsecureui_svcsock.so
@@ -412,6 +415,7 @@ bin/ipacm-diag
 vendor/lib/hw/keystore.msm8952.so
 
 # Media
+lib/libstagefright_soft_flacdec.so
 vendor/lib/libI420colorconvert.so
 vendor/lib/libmm-color-convertor.so
 vendor/lib/libOmxAacDec.so
@@ -530,6 +534,7 @@ vendor/lib/hw/sound_trigger.primary.msm8952.so
 vendor/lib/libsmwrapper.so
 
 # Thermal
+etc/thermal-engine.conf
 vendor/bin/thermal-engine
 vendor/lib/libthermalclient.so
 vendor/lib/libthermalioctl.so

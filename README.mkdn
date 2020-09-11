@@ -1,6 +1,6 @@
 Device Tree for BQ Aquaris X5 Plus (gohan)
 ===========================================
-Version 1.0.1
+Version 1.0.2
 
 The BQ Aquaris X5 Plus (codenamed _"gohan"_) is a mid-range smartphone from BQ.
 It was released in June 2016.
@@ -25,7 +25,7 @@ Copyright (C) 2017 The LineageOS Project.
 ![Aquaris X5 Plus](https://it-bqcom15-media.s3.amazonaws.com/prod/images/200_200/6/7/a/d/67ad2f4be52cca13f3830f6793d466bbdf2fa3a5.jpg "BQ Aquaris X5 Plus")
 
 
-Additianal needed in the Lineage Build Folder:
+Additional needed in the Lineage Build Folder:
 
 git clone https://github.com/ant-wireless/Android_build.git external/ant-wireless/build
 
